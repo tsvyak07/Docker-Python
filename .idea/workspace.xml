@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aef28f2-493e-4846-ab19-df7efbea2570" name="Changes" comment="Docker Python web service edit-2" />
+    <list default="true" id="9aef28f2-493e-4846-ab19-df7efbea2570" name="Changes" comment="Docker Python web service edit-3">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659467266023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Docker Python web service edit-3">
+      <created>1659468671935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659468671935</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +85,7 @@
     <MESSAGE value="Docker Python web service" />
     <MESSAGE value="Docker Python web service edit-1" />
     <MESSAGE value="Docker Python web service edit-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docker Python web service edit-2" />
+    <MESSAGE value="Docker Python web service edit-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Docker Python web service edit-3" />
   </component>
 </project>

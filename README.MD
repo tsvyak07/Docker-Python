@@ -19,10 +19,10 @@ but you need check new image (you can see last image with you example name)
 docker images
 
 you can run project (you can change ports and name) with name you build image
-docker run -d -p 88:80 --name=nginx --restart=always example name
+docker run -d -p 5000:5000 --name=python --restart=always example name
 
 docker ps -a
 
 you can see docker status running container with you example name
 
-after that you can open ip your server + port 88 and you can get web page
+after that you can open ip your server + port 5000 and you can get web page
