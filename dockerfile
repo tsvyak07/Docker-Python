@@ -14,7 +14,7 @@ ADD requirements.txt /tmp/
 WORKDIR /tmp
 ADD pip install -qr requirements.txt
 WORKDIR /opt/webapp
-ADD app.py
-ADD requirements.txt
+ADD app.py /opt/webapp
+ADD requirements.txt /opt/webapp
 EXPOSE 5000
 CMD ["python", "app.py"]
